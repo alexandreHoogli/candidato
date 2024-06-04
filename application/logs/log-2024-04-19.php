@@ -1,0 +1,99 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-19 08:33:03 --> Severity: error --> Exception: Too few arguments to function Admin::preview(), 0 passed in /home/agenciavtec/pages.agenciavtec.com/system/core/CodeIgniter.php on line 533 and exactly 1 expected /home/agenciavtec/pages.agenciavtec.com/application/controllers/Admin.php 154
+ERROR - 2024-04-19 08:33:46 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 08:33:46 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 08:33:46 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 08:33:46 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 08:33:46 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 08:48:27 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 08:48:27 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 08:48:27 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 08:48:27 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 08:48:27 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 13:17:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 13:17:21 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 13:17:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 13:17:21 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 13:17:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 13:25:11 --> Severity: error --> Exception: Too few arguments to function Admin::preview(), 0 passed in /home/agenciavtec/pages.agenciavtec.com/system/core/CodeIgniter.php on line 533 and exactly 1 expected /home/agenciavtec/pages.agenciavtec.com/application/controllers/Admin.php 154
+ERROR - 2024-04-19 17:30:21 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:30:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:30:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:30:21 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:30:21 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:18 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:18 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:18 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:33 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:33 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:32:33 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:33:01 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:33:01 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:33:01 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:33:01 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:33:02 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:02 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:02 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:02 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:02 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:02 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:13 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:13 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:13 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:13 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:13 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:54 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:35:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:35:54 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:39:26 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:39:26 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:39:26 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:39:26 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:39:26 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:40:17 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:40:17 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:40:17 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:40:17 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:40:17 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:41:48 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:41:48 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:41:48 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:41:48 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:41:48 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:48:19 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:48:19 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:48:19 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:48:19 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:48:19 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:52:52 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:52:52 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:52:52 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:52:52 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:52:52 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:54:14 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:54:14 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 17:54:14 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:54:14 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 17:54:14 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 18:37:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:37:54 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 18:37:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:37:54 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:37:54 --> 404 Page Not Found: Assets/editor_assets
+ERROR - 2024-04-19 18:48:51 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:48:51 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:48:51 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:04 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:04 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:04 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:34 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:34 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 18:51:34 --> 404 Page Not Found: Uploads/template_zips
+ERROR - 2024-04-19 19:18:25 --> Severity: Warning --> Undefined variable $currency_list /home/agenciavtec/pages.agenciavtec.com/application/views/admin/admin_settings.php 282
+ERROR - 2024-04-19 19:18:25 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/agenciavtec/pages.agenciavtec.com/application/views/admin/admin_settings.php 282
+ERROR - 2024-04-19 19:23:08 --> Severity: Warning --> Undefined variable $currency_list /home/agenciavtec/pages.agenciavtec.com/application/views/admin/admin_settings.php 282
+ERROR - 2024-04-19 19:23:08 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/agenciavtec/pages.agenciavtec.com/application/views/admin/admin_settings.php 282
+ERROR - 2024-04-19 19:23:09 --> Severity: Warning --> Undefined array key "BRR" /home/agenciavtec/pages.agenciavtec.com/application/views/user/plans/plans_list.php 38

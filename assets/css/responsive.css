@@ -1,0 +1,307 @@
+@media (max-width:1200px) {
+    .pxg_admin_content {
+        margin: 48px 60px 15px 368px;
+    }
+
+    .pxg_performance_inner {
+        flex-wrap: wrap;
+    }
+
+    .pxg_performance_inner .pxg_performance_status {
+        flex-direction: row;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .pxg_performance_status .pxg_dash_box {
+        width: 100%;
+    }
+}
+
+@media (max-width:1024px) {
+    .pxg_dashboard_section {
+        left: -320px;
+    }
+
+    .pxg_admin_content {
+        margin: 48px 50px 15px 50px;
+    }
+
+    .toggle-btn {
+        position: absolute;
+        top: -35px;
+        left: 0;
+        cursor: pointer;
+        height: 50px;
+        width: 50px;
+        display: block;
+    }
+
+    .toggle-btn span {
+        width: 30px;
+        height: 4px;
+        border-radius: 5px;
+        background: #FF4768;
+        display: block;
+        margin-top: 5px;
+        transition: 0.3s ease;
+    }
+
+    .pxg_mini_toggle .toggle-btn {
+        position: absolute;
+        top: 27px;
+        left: 30px;
+        cursor: pointer;
+        height: 50px;
+        width: 50px;
+        display: block;
+    }
+
+    .pxg_mini_toggle span:nth-child(1) {
+        transform: rotate(45deg);
+        top: 0px;
+    }
+
+    .pxg_mini_toggle span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .pxg_mini_toggle span:nth-child(3) {
+        transform: rotate(-45deg);
+    }
+
+    .pxg_mini_toggle .toggle-btn span {
+        position: absolute;
+    }
+
+    .pxg_mini_toggle .toggle-btn {
+        left: 85%;
+    }
+
+}
+
+@media (max-width:991px) {
+    .pxg_template_list {
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    }
+
+    .pxg_profile_wrapper .user_img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .pxg_profile_wrapper .user_img img {
+        height: 40px;
+        max-width: 40px;
+    }
+
+    .pxg_plans_details {
+        width: 100%;
+    }
+
+    .logo_wrapper a img {
+        max-width: 180px;
+    }
+
+    .logo_wrapper {
+        margin-bottom: 30px;
+    }
+
+    .pxg_dashboard_section {
+        padding: 30px;
+        width: 300px;
+    }
+
+    .pxg_mini_toggle .toggle-btn span {
+        width: 25px;
+    }
+
+    .pxg_sidebar_bottom_content {
+        width: 250px;
+        left: 20px;
+    }
+
+    .main_menu li a {
+        padding: 12px 0 12px 12px;
+    }
+
+}
+
+@media (max-width:767px) {
+
+    .pxg_dash_box .box_img img {
+        width: auto;
+        height: auto;
+        min-width: auto;
+    }
+
+    .pxg_plans_inner_content .pxg_plans_details h2 {
+        font-size: 22px;
+    }
+
+    .pxg_plans_inner_content .pxg_plans_details .edit_plan_btn {
+        position: relative;
+        top: 0;
+        right: 0;
+        margin-bottom: 10px;
+    }
+
+    .pxg_header_wrapper {
+        justify-content: center;
+    }
+
+    .pxg_settng_menu_main ul li a {
+        font-size: 14px;
+        padding: 10px 0 15px 0;
+    }
+
+    .pxg_settings_tab_items {
+        padding: 20px;
+    }
+
+    .pxg_common_model .pxg_model_btn {
+        flex-wrap: wrap;
+    }
+
+    div.dataTables_wrapper div.dataTables_info {
+        text-align: center;
+    }
+
+    .pxg_btn {
+        height: 50px;
+        line-height: 50px;
+    }
+
+    .pxg_header_wrapper .search_wrapper input {
+        height: 50px;
+        padding: 10px 20px 15px 55px;
+    }
+
+    .pxg_header_wrapper .select2-container--default .select2-selection--single .select2-selection__rendered {
+        line-height: 50px;
+    }
+
+    .pxg_header_wrapper .select2-container--default .select2-selection--single {
+        height: 50px;
+    }
+
+    .pxg_header_wrapper .select2-container--default .select2-selection--single .select2-selection__arrow {
+        top: 20px;
+    }
+
+    .pxg_profile_wrapper_main .pxg_profile_banner {
+        padding: 29px 70px 35px 70px;
+        gap: 40px;
+    }
+
+    .pxg_profile_wrapper_main .pxg_profile_banner {
+        background-position: right;
+    }
+
+    .pxg_profile_wrapper_main .profile_pic_button {
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .pxg_dash_box:after {
+        right: -7px;
+        height: 44px;
+    }
+
+    .pxg_admin_content {
+        margin: 48px 40px 15px 40px;
+    }
+
+    .pxg_hdr_rgt_inner_content {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .pxg_performance_inner {
+        display: flex;
+        gap: 40px;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+    }
+
+    .pxg_performance_inner .pxg_performance_status {
+        flex-wrap: wrap;
+    }
+
+    .pxg_dash_box .box_img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .pxg_box_content h5 {
+        font-size: 24px;
+    }
+
+    .pxg_table_pagination {
+        justify-content: center;
+    }
+
+    .pxg_profile_wrapper_main .pxg_profile_details {
+        padding: 30px 35px;
+        position: relative;
+    }
+
+}
+
+@media (max-width:690px) {
+    .pxg_performance_status .pxg_dash_box {
+        width: 100%;
+    }
+}
+
+@media (max-width:575px) {
+    .pxg_plans_inner_content .pxg_plans_details h2 {
+        font-size: 20px;
+    }
+
+    .pxg_plans_inner_content {
+        flex-wrap: wrap;
+    }
+
+    .pxg_settng_menu_main ul li a.active::after,
+    .pxg_settng_menu_main ul li a.active::before {
+        display: none;
+    }
+
+    .pxg_settng_menu_main ul {
+        padding: 0 15px;
+    }
+
+    .pxg_header_wrapper .pxg_hdr_rgt_inner_content .search_wrapper input {
+        width: 100%;
+    }
+
+    .pxg_admin_content {
+        margin: 48px 30px 15px 30px;
+    }
+
+    .pxg_box_content h5 {
+        font-size: 20px;
+    }
+
+    .pxg_dash_box .box_img {
+        width: 40px;
+        height: 40px;
+    }
+
+}
+
+@media (max-width:375px) {
+
+    .pxg_profile_wrapper_main .pxg_profile_banner::before,
+    .pxg_profile_wrapper_main .pxg_profile_banner::after {
+        display: none;
+    }
+
+    .pxg_profile_wrapper_main .pxg_profile_banner {
+        padding: 29px 30px 35px 30px;
+        gap: 40px;
+        flex-direction: column;
+        background-position: bottom;
+    }
+}
